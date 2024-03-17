@@ -41,14 +41,14 @@ Note that the condensed versions of the YouTube videos, which are accessible at 
 
 Your assignment should demonstrate your ability to successfully record and present your work, as well as your ability to duplicate and creatively expand upon the experiments. If you have any questions or need any small adjustments made to the Colab notebooks, don't hesitate to contact us.
 
-Assignment Results
+### Deliverables:
 The list of deliverables that have been turned in for this assignment can be found below. Kindly take note that the assignment_02 folder contains all of the deliverables.
 
 data: Folder containing the PDF data that was used for the RAG portion of the assignment.
 CMPE258_Assignment_2_Part(1_5).ipynb: Python notebook for the Tokenization portion of the assignment, OpenAI API portion of the assignment, OpenAI API portion of the assignment, Code Interpretter portion of the assignment, fine-tuning portion of the assignment.
 
 CMPE258_Assignment_2_Part_6.ipynb: Python notebook for the LLama portion of the assignment.
-References:
+### References:
 
 Open Source LLM Hacker's Handbook - posit::conf (2023): This video offers more information about LLMs.
 An overview of A Hackers' Handbook for Language Models The video "A Hackers' Guide to Language Models" is a summarized version.
