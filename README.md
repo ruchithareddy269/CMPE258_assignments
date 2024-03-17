@@ -25,12 +25,13 @@ URL: https://teachablemachine.withgoogle.com/models/qGtgKBFHd/
 
 
 ## Assignment-2
+
+### Description
 The task assigned to us in this assignment is to replicate a set of experiments that were carried out using both closed- and open-source Language Model Models (LLMs), as detailed in the references section.
 
 The main goal is to duplicate the experiments and adapt them to carry out different tasks. You will use various datasets available at Hugging Face in place of the supplied SQL dataset to show your flexibility and inventiveness.
 
-
-Assignments
+### What to do?
 Try the experiments shown in the attached YouTube videos, making sure to include prompt-based generation, fine-tuning, RAG (Retrieval-Augmented Generation), local interpreter, function calls, and CPU inference for llama.cpp.
 
 Make inventive changes to the Colab notebooks from the YouTube videos to showcase cutting-edge LLM use cases and applications.
