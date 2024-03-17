@@ -47,10 +47,10 @@ The list of deliverables that have been turned in for this assignment can be fou
 
 data: Folder containing the PDF data that was used for the RAG portion of the assignment.
 
-CMPE258_Assignment_2_Part(1_5).ipynb:  
+Assignment_2_Part(1_5).ipynb:  
 Python notebook for the Tokenization portion of the assignment, OpenAI API portion of the assignment, OpenAI API portion of the assignment, Code Interpretter portion of the assignment, fine-tuning portion of the assignment.
 
-CMPE258_Assignment_2_Part_6.ipynb:  
+Assignment_2_Part_6.ipynb:  
 Python notebook for the LLama portion of the assignment.
 ### References:
 
