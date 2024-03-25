@@ -46,11 +46,18 @@ Be sure to write a README.md file and create a proper GitHub directory structure
 Please see below for the deliverables that have been submitted for the assignment. Please note that all deliverables are under the Assignment-3 folder.
 
 
-Part_1.ipynb: Google Colab notebook related to part A of the assignment - fastAI
-Part_2.ipynb: Google Colab notebook related to Part B of the assignment - HuggingFace Transformers
-Part_3.ipynb: Google Colab notebook related to Part C of the assignment - Keras-NLP
-Part_4.ipynb: Google Colab notebook related to Part D of the assignment - Keras-CV
+1. `Part_1_Object_detection.ipynb`, `Part_1_segmentation.ipynb`, `Part_1_Tabular_task.ipynb`, `Part_1_Recommmendation-task.ipynb`: Google Colab notebook related to part A of the assignment - fastAI
+2. `Part_2_huggingface.ipynb`: Google Colab notebook related to Part B of the assignment- HuggingFace Transformers
+3. `Part_3-Keras-NLP.ipynb`: Google Colab notebook related to Part C of the assignment- Keras-NLP
+4. `Part_4_Pretrained_Object_Detection.ipynb`: Google Colab notebook related to Part D of the assignment- Keras-CV
 
+### References:
 
-### References Used
-Please see below for a list of references that were used for this assignment.
+1. [FastAI Introduction Colab](https://github.com/fastai/fastbook/blob/master/01_intro.ipynb)
+2. [Getting Started With Transformers Colab](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb)
+3. [Getting Started with KerasNLP Colab](https://colab.research.google.com/github/keras-team/keras-io/blob/master/guides/ipynb/keras_nlp/getting_started.ipynb)
+4. [Classification with KerasCV Colab](https://colab.research.google.com/github/keras-team/keras-io/blob/master/guides/ipynb/keras_cv/classification_with_keras_cv.ipynb)
+5. [Classification with KerasCV](https://keras.io/guides/keras_cv/classification_with_keras_cv/)
+6. [Object Detection with KerasCV Guide](https://keras.io/guides/keras_cv/object_detection_keras_cv/)
+7. [Object Detection with KerasCV Colab](https://colab.research.google.com/github/keras-team/keras-io/blob/master/guides/ipynb/keras_cv/object_detection_keras_cv.ipynb)
+8. ChatGPT to help with debugging code.
