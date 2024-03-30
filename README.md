@@ -66,4 +66,22 @@ Additionally, ChatGPT was utilized to help with this assignment.
 
 Demo video: https://drive.google.com/drive/u/2/folders/1-JCxjjT1PGZMOEEOii6mSALBsspdr76N
 
+## Assignment-4
+
+
+Perform the following tasks:
+
+Write an agent from scratch using tools in python. Be sure to use the class slides code as inspiration. There are also other good examples of creating agents from scratch.
+Demonstrate various agent use cases using langchain.
+Be sure to write a README.md file and create a proper GitHub directory structure for your assignment. Include a Demo Video.
+
+### Assignment Deliverables
+Please see below for the list of deliverables that have been submitted for this assignment. Please note that all deliverables are under the assignment_04 folder.
+
+Assignment-4_Ai_Agents_(custom).ipynb: Python notebook related to part A of the assignment - AI agents using python.
+Assignment-4_Ai_Agents-(Langchain).ipynb: Python notebook related to part B of the assignment - AI agents using LangChain
+
+Demo Video Link :
+#### References Used
+
 
