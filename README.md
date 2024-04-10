@@ -85,3 +85,46 @@ Demo Video Link :
 #### References Used
 https://medium.com/databutton/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842
 
+# Assignment-5
+
+##  Guidelines
+
+It is important to note that you will need to adhere to the following guidelines:
+
+1. You must create a 3-layer neural network.You must use einsum.
+2. Use a non-linear 3-dimensional equation.
+4. Generate syntetic data using the equation you used and plot using 4-d plot in matplotlib.
+
+After completing the colabs, you will need to upload a video showing the code checked into GitHub as well as a code walkthrough of the main sections and any final output that is generated.
+
+## Assignment Description
+
+Complete the following parts
+
+1. Numpy
+2. PyTorch without built-in layer functionality
+3. **PyTorch WITH built-in functionality**
+4. **PyTorch Lightning Version**
+5. **Tensorflow** (i.e. scratch, built-in, low-level API, and high-level API)
+6. **JAX**
+
+## Assignment Deliverables
+
+Please see below for the list of deliverables that have been submitted for this assignment.
+
+
+1. `Assignment_5_part_1(NN_numpy).ipynb`: Colab for **Numpy** portion of assignment.
+2. `Assignment_5_part_2(Pytorch_Without_builtin).ipynb`: Colab for **PyTorch without built-in layer** portion of assignment.
+3. `Assignment_5_part_3(Pytorch_builtin).ipynb`: Colab for **PyTorch WITH built-in functionality** portion of assignment.
+4. `Assignment_5_part_4(Pytorch_Lightning).ipynb`: Colab for **PyTorch Lightning Version** portion of assignment.
+5. `Assignment_5_part_5(NN_Tensorflow).ipynb`: Colab for **Tensorflow** portion of assignment. This includes scratch, built-in, low-level API, and high-level API.
+6. `Assignment_5_part_6(JAX).ipynb`: Colab for **JAX** portion of assignment.
+7. [Demo Video]()
+
+## References
+
+1. [Deep Learning Fundamentals Part 01](https://colab.research.google.com/drive/1HS3qbHArkqFlImT2KnF5pcMCz7ueHNvY?usp=sharing&authuser=1#scrollTo=EGkS6nN6dQaz)
+2. [Tensors Fundamentals and PyTorch Slides](https://docs.google.com/presentation/d/13Oo5gXwcsoq9oMC4XriAyxkvgicatBxfI4cZzDhRyiE/edit#slide=id.g826a355833_0_525)
+3. [How to make a 4D plot with Matplotlib using arbitrary data?](https://www.tutorialspoint.com/how-to-make-a-4d-plot-with-matplotlib-using-arbitrary-data)
+4. [you-dont-know-jax.ipynb](https://github.com/craffel/jax-tutorial/blob/master/you-don-t-know-jax.ipynb)
+5. [JAX Quickstart.ipynb](https://colab.research.google.com/github/google/jax/blob/main/docs/notebooks/quickstart.ipynb)
