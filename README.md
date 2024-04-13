@@ -119,7 +119,7 @@ Please see below for the list of deliverables that have been submitted for this 
 4. `Assignment_5_part_4(Pytorch_Lightning).ipynb`: Colab for **PyTorch Lightning Version** portion of assignment.
 5. `Assignment_5_part_5(NN_Tensorflow).ipynb`: Colab for **Tensorflow** portion of assignment. This includes scratch, built-in, low-level API, and high-level API.
 6. `Assignment_5_part_6(JAX).ipynb`: Colab for **JAX** portion of assignment.
-7. [Demo Video]()
+7. [Demo Video](https://drive.google.com/file/d/1sAJTbdQSSAyf1e2cFlX5pqccsqMW2bCR/view?usp=sharing)
 
 ## References
 
